@@ -2,8 +2,8 @@
 Windows出现 **“网络连接不可用”**  **“未识别的网络”** 时，一些常用的解决办法
 
 ---
-![网络连接不用][2025-04-06 182218.png](https://github.com/20240608/Windows-Network-Connection-Unavailable/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20104456.png)
-![未识别的网络][202025-04-06%20182218.png](https://github.com/20240608/Windows-Network-Connection-Unavailable/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-06%20182218.png)
+![未识别的网络][2025-04-06 182218.png](https://github.com/20240608/Windows-Network-Connection-Unavailable/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-09%20104456.png)
+![网络连接不用][202025-04-06%20182218.png](https://github.com/20240608/Windows-Network-Connection-Unavailable/blob/main/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-04-06%20182218.png)
 
 ---
 
